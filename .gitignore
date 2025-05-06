@@ -25,3 +25,4 @@ replay_pid*
 
 # class pdf files and other stuff will be out of scope
 *.pdf
+*.mov
